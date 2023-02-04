@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-Cheems Bot Multi Device is a automated whatsapp bot developed by <a href="https://github.com/Kaveeshasithum" target="_blank">Cyber X Team</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+Code Senseiis a automated whatsapp bot developed by <a href="https://github.com/Kaveeshasithum" target="_blank">Cyber X Team</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
 
 
@@ -105,7 +105,7 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 
 
 
-# > THANKS FOR CHOOSING DARK NERO BOT WE APPRECIATE YOU FOR YOUR SUPPORT
+# > THANKS FOR CHOOSING Code Sensei BOT WE APPRECIATE YOU FOR YOUR SUPPORT
  
 # > VIHANGA
 # > NIMESH

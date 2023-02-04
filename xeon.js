@@ -1,3 +1,3 @@
 {
-	"name": "Dark Nero Multi Device "
+	"name": "Code Sensei Multi Device "
 }
